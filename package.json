@@ -1,0 +1,12 @@
+{
+  "name": "Arq-Software-Nodes-Pratica1-Unidade2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
